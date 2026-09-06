@@ -2,7 +2,7 @@
 
 This project analyzes NVIDIA’s synthetic 2026 GPU sales dataset using Excel-based data visualization and AI-assisted insights. It combines traditional analytics with generative AI to produce business-ready interpretations, trend summaries, and a structured prompt engineering portfolio.
 
-## 📊 Project Components
+## Project Components
 
 ### 1. Dashboard & Charts
 - Revenue Over Time
@@ -36,11 +36,11 @@ Key takeaways about NVIDIA’s gaming, workstation, and AI compute GPU markets.
 ### 5. Next Steps
 Suggestions for expanding the project using Python, additional charts, and deeper AI analysis.
 
-## 🧰 Tools Used
+## Tools Used
 - Microsoft Excel (PivotTables, charts)
 - Microsoft Copilot (AI insights, prompt engineering)
 - Word (final report)
 - GitHub (project hosting)
 
-## 📁 Repository Structure
+## Repository Structure
 
