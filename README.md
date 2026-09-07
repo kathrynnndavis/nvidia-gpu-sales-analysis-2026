@@ -42,19 +42,3 @@ Suggestions for expanding the project using Python, additional charts, and deepe
 - Word (final report)
 - GitHub (project hosting)
 
-## Repository Structure
-NVIDIA-GPU-Sales-Analysis/
-│
-├── data/
-│   └── nvidia_gpu_sales_2026.csv
-│
-├── charts/
-│   └── revenue_over_time.png
-│   └── top_gpu_models.png
-│   └── regional_breakdown.png
-│   └── price_vs_units_sold.png
-│
-├── report/
-│   └── NVIDIA GPU Sales Analysis (2026).docx
-│
-└── README.md
